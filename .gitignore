@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+pybamm-env/
+venv/
+.venv/
+env/
+
+# PyBaMM / simulation outputs
+*.pickle
+*.mat
+results/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
