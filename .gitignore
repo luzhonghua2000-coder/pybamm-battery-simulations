@@ -18,3 +18,7 @@ results/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+*.gif
+*.pickle
+*.mat
